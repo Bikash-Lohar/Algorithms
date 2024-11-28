@@ -1,0 +1,23 @@
+# Ignore binary files
+*.exe
+*.out
+*.o
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore build directories (e.g., if using a build system like CMake)
+build/
+dist/
+
+# Ignore IDE and editor configuration files
+.vscode/
+*.code-workspace
+.idea/
+*.swp
+*.swo
+
+# Ignore backup files
+*.bak
+*~
