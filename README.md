@@ -6,3 +6,4 @@
 5. [Maximum and Minimum from given List](MaxMin.cpp)
 6. [Merge Sort]()
 7. [Binary Search](BinarySearch.cpp)
+   [Binary Search using Recursion](RecursiveBinarySearch.cpp)
